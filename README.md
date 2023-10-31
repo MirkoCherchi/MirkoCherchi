@@ -6,5 +6,5 @@
 
 ## 🛠 Skills
 
-HTML, CSS...
+HTML, CSS, JS...
 
