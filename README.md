@@ -6,5 +6,5 @@
 
 ## 🛠 Skills
 
-HTML, CSS, JS , PHP...
+HTML, CSS, JavaScript , Vue Js, PHP, Laravel, MySQL, Bootstrap, SASS ...
 
